@@ -1,0 +1,11 @@
+
+CREATE TABLE fashion (
+tweet_id INT,
+handle TEXT,
+created TIMESTAMP WITH TIME ZONE,
+tweet TEXT);
+
+
+CREATE TABLE all_data(
+data jsonb
+);
