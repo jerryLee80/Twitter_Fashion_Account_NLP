@@ -9,3 +9,7 @@ tweet TEXT);
 CREATE TABLE all_data(
 data jsonb
 );
+
+CREATE TABLE fashion(
+data jsonb
+);
